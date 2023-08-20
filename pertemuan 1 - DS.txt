@@ -1,0 +1,23 @@
+data scientist - sumber data
+- data internet
+- data bisnis
+- data sensor (ex: IoT)
+
+pekerjaan data scientist
+- definisi masalah
+- pengumpulan data
+	- contoh: outlet, kota (bisa olah)
+- eksplorasi dan penyiapan data (cleansing data)
+	- data bolong dan kosong, data dirapiin
+- analisis data
+	- pertanyaannya terjawab tidak ?
+	- algoritma, database, teknik
+- story telling
+	- menceritakan ke stackholder (infographic, chart, visualisasi dashboard)
+
+pakai excel:
+- definisi 3 masalah
+- kumpulkan data
+- eksplorasi data menggunakan ms. excel
+- analisis data menggunakan pivot table
+- story telling menggunakan chart

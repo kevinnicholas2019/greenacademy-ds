@@ -1,0 +1,64 @@
+Pertemuan 2
+
+- Data Hirarki (1D)
+	- contoh dimensi wilayah: banjir di jakarta timur, oh di cakung, oh dicakung jalan mana ?
+	- Drill up
+	- Drill Down
+	- dimensi waktu 
+		- tahun
+			- semester
+			- triwulan
+				- bulan
+					- week
+	- dimensi wilayah
+		- negara
+			- provinsi (state)
+				- kota / kabupaten
+					- kecamatan
+						- kelurahan
+							- alamat
+	- ini di tahap 3 (explorasi dan penyiapan data)
+	- contoh ada 3 kolom (raw) dijadiin 6 kolom (namanya manipulasi)
+		- item | tanggal | jumlah (3 kolom)
+		- item | tahun | jumlah | bulan | semester (6 kolom)
+SKILL DATA SCIENTIST:
+- Data Science
+	- Domain Spesifik (harus spesifik terhadap sektor yg diambil)
+		- DS harus mampu paham data dan kebutuhan organisasi, untuk menggali insights, yg nantinay bermanfaat bagi organisasi tersebut.
+			- misal: e-commerce, pabrik, kesehatan, pendidikan, dll
+	- Teknologi pemrograman basis data
+		- ms. excel
+		- internet
+		- laptop / pc
+		- contoh gojek :
+			- cloud server (GCP)
+			- Big Query
+			- Python / Go-Lang
+		- Pemrograman
+			- Algoritma
+				- Langkah-langkah memecahkan suatu masalah secara logis & sistematis
+		- basis data (Database) 
+			- tempat penyimpanan data
+		- contoh tanpa database (kalkulator)
+		- belajar pakai mysql dan python
+		- format data
+			- data terstruktur
+				- oracle, sql server, mysql, postgresql
+			- data semi terstruktur
+				- html, csv, json, xml, data spasial / geografis
+			- data tidak terstruktur
+				- dokumen, email, foto dan video
+		- ETL (Extract Trans. Load)
+			- SSIS
+			- PDI (Pentaho Data Integration)
+		- paling populer Python / R
+	- Matematika Statistika
+		- saat mempelajari dan mengeksplorasi data, menggunakan matematika dan statistika untuk memahami data.
+		- misal: logika berpikir sistematis, aritmatika, aljabar, kalkulus
+		- ringkasan data ( seperti frekuensi kemunculan, rata-rata (mean), median, minimum, maksimum, pengujian hipotesis dan membuat sampel data
+		- algoritma machine learning (pengelompokan (clustering), klasifikasi data, regresi, analisis aturan asosiasi, outlier, dll), machine learning menggunakan statistik
+	- Komunikasi Visualisasi
+		- storytelling informatif
+		- visualisasi yang menarik (pakai power BI, matplotlib python)
+- Belajar Pemrograman Python Dasar
+	-
